@@ -1,0 +1,18 @@
+﻿Build started 06/01/2015 12:04:22 PM.
+     1>Project "D:\Project Visual\1412186_DoAn1\1412186_DoAn1\1412186_DoAn1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\1412186_DoAn1.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         1412186_DoAn1.vcxproj -> D:\Project Visual\1412186_DoAn1\1412186_DoAn1\Debug\1412186_DoAn1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\1412186_DoAn1.unsuccessfulbuild".
+         Touching "Debug\1412186_DoAn1.lastbuildstate".
+     1>Done Building Project "D:\Project Visual\1412186_DoAn1\1412186_DoAn1\1412186_DoAn1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
